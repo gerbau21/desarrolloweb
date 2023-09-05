@@ -1,0 +1,49 @@
+body{
+	margin:0;
+	padding:0;
+	background: #035E7B;
+}
+.name{
+	width: 100%;
+	height: 300px;
+	background: #A2A77F;
+
+}
+
+.name .content {
+	width: 50%;
+ 	height: 50%;
+ 	position: absolute;
+ 	left:25%;
+ }
+
+.name .content .p-1{
+ 	color: #EEE2DF;
+ 	font-family: 'Roboto Slab', serif;
+ 	font-weight: bolder;
+ 	font-size: 65px;
+ }
+.name .content .p-2{
+ 	color: #EEE2DF;
+ 	font-family: 'Roboto Slab', serif;
+ 	font-size: 35px;
+
+ }
+ .name .content .p-3{
+	color: #EEE2DF;
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+
+}
+.name .content .p-4{
+	color: #EEE2DF;
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+
+}
+.name .content .p-5{
+	color: #EEE2DF;
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+
+}
